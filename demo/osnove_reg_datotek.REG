@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+;Kljuc
+[HKEY_CURRENT_USER\SOFTWARE\SPO\.REG]
+;Vrednost z imenom "Vrednost"
+"Vrednost"="Nova vrednost ustvarjeno preko .REG datoteke"
+;Privzeta vrednost
+@="Nova privzeta vrednost"
+;Vrednost z imenom "ToBeDeleted"
+"ToBeDeleted"=dword:1
+;Brisanje vrednosti z imenom "ToBeDeleted"
+"ToBeDeleted"=-
